@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/autoT/static/css/main.779f36d9.chunk.css",
-    "main.js": "/autoT/static/js/main.2b12bfc9.chunk.js",
-    "main.js.map": "/autoT/static/js/main.2b12bfc9.chunk.js.map",
-    "runtime-main.js": "/autoT/static/js/runtime-main.20855873.js",
-    "runtime-main.js.map": "/autoT/static/js/runtime-main.20855873.js.map",
-    "static/js/2.829ec25f.chunk.js": "/autoT/static/js/2.829ec25f.chunk.js",
-    "static/js/2.829ec25f.chunk.js.map": "/autoT/static/js/2.829ec25f.chunk.js.map",
-    "static/js/3.5b14be74.chunk.js": "/autoT/static/js/3.5b14be74.chunk.js",
-    "static/js/3.5b14be74.chunk.js.map": "/autoT/static/js/3.5b14be74.chunk.js.map",
+    "main.js": "/autoT/static/js/main.d4675347.chunk.js",
+    "main.js.map": "/autoT/static/js/main.d4675347.chunk.js.map",
+    "runtime-main.js": "/autoT/static/js/runtime-main.b5ee9b3f.js",
+    "runtime-main.js.map": "/autoT/static/js/runtime-main.b5ee9b3f.js.map",
+    "static/js/2.0fa8cb68.chunk.js": "/autoT/static/js/2.0fa8cb68.chunk.js",
+    "static/js/2.0fa8cb68.chunk.js.map": "/autoT/static/js/2.0fa8cb68.chunk.js.map",
+    "static/js/3.6c25862b.chunk.js": "/autoT/static/js/3.6c25862b.chunk.js",
+    "static/js/3.6c25862b.chunk.js.map": "/autoT/static/js/3.6c25862b.chunk.js.map",
     "index.html": "/autoT/index.html",
     "static/css/main.779f36d9.chunk.css.map": "/autoT/static/css/main.779f36d9.chunk.css.map",
-    "static/js/2.829ec25f.chunk.js.LICENSE.txt": "/autoT/static/js/2.829ec25f.chunk.js.LICENSE.txt"
+    "static/js/2.0fa8cb68.chunk.js.LICENSE.txt": "/autoT/static/js/2.0fa8cb68.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.20855873.js",
-    "static/js/2.829ec25f.chunk.js",
+    "static/js/runtime-main.b5ee9b3f.js",
+    "static/js/2.0fa8cb68.chunk.js",
     "static/css/main.779f36d9.chunk.css",
-    "static/js/main.2b12bfc9.chunk.js"
+    "static/js/main.d4675347.chunk.js"
   ]
 }
